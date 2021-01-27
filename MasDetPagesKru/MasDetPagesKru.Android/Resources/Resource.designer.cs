@@ -8024,35 +8024,7 @@ namespace MasDetPagesKru.Droid
 		public partial class Drawable
 		{
 			
-			// aapt resource value: 0x7F070006
-			public const int 1 = 2131165190;
-			
-			// aapt resource value: 0x7F070007
-			public const int 10 = 2131165191;
-			
-			// aapt resource value: 0x7F070008
-			public const int 2 = 2131165192;
-			
-			// aapt resource value: 0x7F070009
-			public const int 3 = 2131165193;
-			
-			// aapt resource value: 0x7F07000A
-			public const int 4 = 2131165194;
-			
-			// aapt resource value: 0x7F07000B
-			public const int 5 = 2131165195;
-			
-			// aapt resource value: 0x7F07000C
-			public const int 6 = 2131165196;
-			
-			// aapt resource value: 0x7F07000D
-			public const int 7 = 2131165197;
-			
-			// aapt resource value: 0x7F07000E
-			public const int 8 = 2131165198;
-			
-			// aapt resource value: 0x7F07000F
-			public const int 9 = 2131165199;
+
 			
 			// aapt resource value: 0x7F070010
 			public const int abc_ab_share_pack_mtrl_alpha = 2131165200;
